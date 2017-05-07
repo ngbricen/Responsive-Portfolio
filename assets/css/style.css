@@ -287,6 +287,14 @@ input[type=submit] {
 }
 
 @media screen and (max-width:640px) {
+  #masthead {
+    position: static;
+  }
+
+  #main-container{
+    padding-top:10px;
+  }
+
   .container {
     width: 100%;
     max-width: 640px;
@@ -300,7 +308,6 @@ input[type=submit] {
   .main-section {
     width: 100%;
     max-width: 640px;
-    margin-top: 40px;
   }
 
   .sidebar{
