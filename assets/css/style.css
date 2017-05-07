@@ -322,6 +322,8 @@ input[type=submit] {
   nav a {
     padding-left: 10%;
     margin-left: 10%;
+    line-height: 50%;
+    font-size: 75%;
   }
 
   nav a:first-child {
